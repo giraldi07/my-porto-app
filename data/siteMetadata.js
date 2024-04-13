@@ -1,29 +1,19 @@
 const siteMetadata = {
-  title: 'Raphaël Chelly - Digital marketing project manager',
-  author: 'Raphaël Chelly',
-  headerTitle: 'Raphaël Chelly',
-  description: 'Portfolio of a digital marketing guy who codes a bit.',
+  title: 'Giraldi Prama Yudistira',
+  author: 'Giraldi Prama Yudistira',
+  headerTitle: 'Giraldi Prama Yudistira',
+  description: 'Portfolio of a creative design.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://www.raphaelchelly.com/',
-  siteRepo: 'https://github.com/raphaelchelly/raph_www',
+  siteUrl: 'https://github.com/giraldi07',
+  siteRepo: 'https://github.com/giraldi07/my-porto-app',
   siteLogo: '/static/images/raph-logo.png',
-  image: '/static/images/avatar.jpg',
-  socialBanner: '/static/images/twitter-card.png',
-  email: 'hi@raphaelchelly.com',
-  github: 'https://github.com/raphaelchelly',
-  twitter: 'https://twitter.com/raphael_chelly',
-  linkedin: 'https://www.linkedin.com/in/raphaelchelly',
+  image: '/static/images/profile2.png',
+  email: 'giraldipramay@gmail.com',
+  github: 'https://github.com/giraldi07',
+  instagram: 'https://www.instagram.com/rald.pra/',
+  linkedin: 'https://www.linkedin.com/in/giraldi-prama-yudistira',
   locale: 'en-US',
-  analytics: {
-    // If you want to use an analytics provider you have to add it to the
-    // content security policy in the `next.config.js` file.
-    // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
-    simpleAnalytics: false, // true or false
-    umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: 'G-YBS6CTTW3S', // e.g. UA-000000-2 or G-XXXXXXX
-  },
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue
     // Please add your .env file and modify it according to your selection

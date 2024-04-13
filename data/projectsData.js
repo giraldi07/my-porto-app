@@ -1,19 +1,19 @@
 const projectsData = [
   {
-    title: 'Fabrilab',
-    description: `Creation of a web design agency.`,
+    title: 'Cekhas.com',
+    description: `Creating an Online Store: A Comprehensive Guide to Building a Successful E-commerce Website.`,
     imgSrc: '/static/images/projects/fabrilab.png',
     href: '/blog/projects/fabrilab-web-agency',
   },
   {
-    title: 'Toy Surfboards',
-    description: `Creation & developpement of a e-commerce website.`,
+    title: 'Muntory App',
+    description: `Creation an UI/UX Design Inventory mobile app.`,
     imgSrc: '/static/images/projects/browser_toy.png',
     href: '/blog/projects/toy-surfboards',
   },
   {
-    title: 'TotalEnergies',
-    description: `Creation of Guidelines for Small & Big Packaging.`,
+    title: 'Artwork for Clothings',
+    description: `Creation of Clothing Artwork RaldArt.`,
     imgSrc: '/static/images/projects/TE-Project-2022.png',
     href: '/blog/projects/total-energies',
   },
