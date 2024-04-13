@@ -1,27 +1,19 @@
-![raph-www-banner](/public/static/images/twitter-card.png)
+👋 Hi, I’m @giraldi07
 
-# Raphael personal website (https://raphaelchelly.com)
+👀 I’m interested in programming and music
 
-Welcome to my personal website and portfolio. 🛸
+🌱 I’m currently learning: > Shopify Developement > Responsive Web > Back end Database & Front end dev
 
-- 🤖 **Made** with [Next.js](https://nextjs.org/) and based on the [Tailwind Nextjs starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) template. [Repo](https://github.com/timlrx/tailwind-nextjs-starter-blog)
-- 🎨 **Styling** with [Tailwind CSS](https://tailwindcss.com)
-- 💾 **Hosted** by [Vercel](https://vercel.com)
-- 📝 **Writing** articles with [MDX](https://mdxjs.com/)
+✨ Skill programing: - Framework CSS: > Bootstrap > SCSS > TailWind > UIKit
 
-## Credits and Inspiration
+  - Framework Javascript:
+      > Node.js
+      > React
+      > Next.Js
+💞️ I’m looking to collaborate on full stack web dev
 
-- Template from [Tailwind nextjs starter blog template](https://github.com/timlrx/tailwind-nextjs-starter-blog) © [`@timlrx`](https://github.com/timlrx)
-- Inspiration from [`@marcbouchenoire`](https://github.com/marcbouchenoire) personal website : [Repo](https://github.com/marcbouchenoire/marcbouchenoire.com)
+📫 How to reach me whatsapp me +6281219605323 and instagram @rald.pra
 
-## Roadmap
+😄 Pronouns: ...
 
-- [ ] Multi-language Support
-  - [x] English
-  - [ ] French
-
-- [ ] Adding Spotify API Get Currently Playing Track
-
-## Licence
-
-[MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/master/LICENSE) © [Timothy Lin](https://www.timrlx.com)
+⚡ Fun fact: ...
