@@ -28,7 +28,7 @@ export default function Home({ posts }) {
               Giraldi Prama Yudistira
             </h1>
             <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              Portfolio of a Creatvie Design.
+              Portfolio of a Design Creative who sometimes codes.
             </h2>
           </div>
           <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
@@ -153,13 +153,13 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.octopia.com/"
+              href="https://diskominfo.bandungkab.go.id/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/workxp/octopia.jpg"
-                alt="Octopia"
+                src="/static/images/workxp/diskominfo.png"
+                alt="DISKOMINFO"
                 width="50px"
                 height="50px"
                 className="rounded-md"
@@ -168,17 +168,17 @@ export default function Home({ posts }) {
             <div className="flex min-w-0 flex-col justify-center">
               <p className="mb-1 flex items-center">
                 <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
-                  Octopia
+                  DISKOMINFO
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  2021
+                  01 May 2020
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  Today
+                  01 August 2020
                 </span>
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Marketing Project Manager
+                  Staff Public Information and Communication Management
                 </span>
               </p>
             </div>
@@ -186,13 +186,13 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.fabrilab.net/"
+              href="https://www.instagram.com/communicare.co/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/workxp/fabrilab2.jpg"
-                alt="Octopia"
+                src="/static/images/workxp/communicare.jpeg"
+                alt="Communicare"
                 width="50px"
                 height="50px"
                 className="rounded-md"
@@ -201,17 +201,17 @@ export default function Home({ posts }) {
             <div className="flex min-w-0 flex-col justify-center">
               <p className="mb-1 flex items-center">
                 <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
-                  Fabrilab
+                  Communicare
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  2017
+                  02 October 2021
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  Today
+                  25 June 2022
                 </span>
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Co-founder & Project Manager
+                  Staff Creative and Content Departement
                 </span>
               </p>
             </div>
@@ -219,13 +219,13 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.microsoft.com/"
+              href="https://hr.telkomuniversity.ac.id/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/workxp/microsoft.jpg"
-                alt="Octopia"
+                src="/static/images/workxp/Logotel-u.png"
+                alt="Logotel-u"
                 width="50px"
                 height="50px"
                 className="rounded-md"
@@ -234,17 +234,17 @@ export default function Home({ posts }) {
             <div className="flex min-w-0 flex-col justify-center">
               <p className="mb-1 flex items-center">
                 <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
-                  Microsoft
+                  HR Telkom University
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  2019
+                  01 February 2023
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  2020
+                  07 June 2023
                 </span>
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Marketing Project Manager Intern
+                  Staff Intern HR Compensation and Benefits
                 </span>
               </p>
             </div>
@@ -252,12 +252,12 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.pernod-ricard.com/"
+              href="https://www.suara.com/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/workxp/pernod-ricard.jpg"
+                src="/static/images/workxp/suaracom.png"
                 alt="Octopia"
                 width="50px"
                 height="50px"
@@ -267,17 +267,17 @@ export default function Home({ posts }) {
             <div className="flex min-w-0 flex-col justify-center">
               <p className="mb-1 flex items-center">
                 <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
-                  Pernod Ricard
+                  Suara.com
                 </span>
                 <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                  2018
+                  October 2022
                   <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
-                  2019
+                  December 2022
                 </span>
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Digital Project Manager Intern
+                  Social Media Officer Intern
                 </span>
               </p>
             </div>

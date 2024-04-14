@@ -2,13 +2,13 @@ const projectsData = [
   {
     title: 'Cekhas.com',
     description: `Creating an Online Store: A Comprehensive Guide to Building a Successful E-commerce Website.`,
-    imgSrc: '/static/images/projects/fabrilab.png',
+    imgSrc: '/static/images/projects/cover-cekhas.png',
     href: '/blog/projects/fabrilab-web-agency',
   },
   {
     title: 'Muntory App',
     description: `Creation an UI/UX Design Inventory mobile app.`,
-    imgSrc: '/static/images/projects/browser_toy.png',
+    imgSrc: '/static/images/projects/cover-muntory.png',
     href: '/blog/projects/toy-surfboards',
   },
   {
@@ -19,8 +19,8 @@ const projectsData = [
   },
 
   {
-    title: 'Havana Club x VALD',
-    description: `Operational launch of the Havana Club x VALD collaboration.`,
+    title: 'Re-Design UI',
+    description: `Re-design UI Mobile App Primajasa.`,
     imgSrc: '/static/images/projects/havanaclub-vald.jpg',
     href: '/blog/projects/havana-club-x-vald',
   },

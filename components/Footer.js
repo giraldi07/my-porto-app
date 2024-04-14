@@ -10,14 +10,14 @@ export default function Footer() {
           <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size="5" />
           <SocialIcon kind="github" href={siteMetadata.github} size="5" />
           <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="5" />
-          <SocialIcon kind="twitter" href={siteMetadata.twitter} size="5" />
+          <SocialIcon kind="instagram" href={siteMetadata.instagram} size="5" />
         </div>
         <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>{`© ${new Date().getFullYear()}`}</div>
           <div>{` • `}</div>
           <div>{siteMetadata.author}</div>
         </div>
-        <div className="mb-8 flex flex-col space-x-2 text-sm text-gray-500 dark:text-gray-400 md:flex-row">
+        <div className="mb-8 flex space-x-2 text-sm text-gray-500 dark:text-gray-400 md:flex-row">
           <Link
             className="hover:text-primary-600 hover:underline dark:hover:text-primary-600"
             href="/"

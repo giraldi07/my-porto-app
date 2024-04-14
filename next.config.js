@@ -8,7 +8,7 @@ const ContentSecurityPolicy = `
   script-src 'self' 'unsafe-eval' 'unsafe-inline' *.googletagmanager.com *.google-analytics.com giscus.app;
   style-src 'self' 'unsafe-inline' *.googleapis.com;
   img-src * blob: data:;
-  media-src 'none';
+  media-src 'self' http://localhost:3000/static/videos/projects/quick-search.gif;
   connect-src *;
   font-src 'self';
   frame-src giscus.app youtube.com www.youtube.com facebook.com www.facebook.com;

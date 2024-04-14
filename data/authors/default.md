@@ -1,116 +1,119 @@
 ---
-name: Raphaël Chelly
-avatar: /static/images/avatar.jpg
-occupation: Marketing Project Manager
-company: Octopia
-email: hi@raphaelchelly.com
-twitter: https://twitter.com/raphael_chelly
-linkedin: https://www.linkedin.com/raphael.chelly
-github: https://github.com/raphaelchelly
+name: Giraldi Prama Yudistira
+avatar: /static/images/avatar.png
+occupation: Creative Design
+email: giraldipramay@gmail.com
+instagram: https://instagram.com/rald.pra
+linkedin: https://www.linkedin.com/in/giraldi-prama-yudistira-032547234/
+github: https://github.com/giraldi07
 ---
 
-Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
+Welcome to the "About" page! I am **Giraldi Prama Yudistira**, a graduate of **Communication Science** from **Telkom University Bandung**. From the outset, I have embraced creativity as the cornerstone of my career journey.
+
+During my studies at Telkom University, I felt the vibrant energy emanating from visual arts and digital technology. The blend of **creativity** and evolving technology in this digital era has inspired me to explore various forms of creative design, particularly in **graphic design** and **UI/UX**.
+
+My portfolio reflects my journey in embracing **innovation** and expressing ideas through **captivating digital designs**. Each project I undertake is not just about meeting visual needs but also about conveying **compelling stories**, delivering **extraordinary experiences**, and reinforcing **brand identities**.
+
+With **dedication** and **perseverance**, I have successfully navigated diverse challenges in the design industry. I believe that design is not only about aesthetics but also about **deep user experiences** and **innovative solutions**.
+
+I am incredibly enthusiastic about continuing to **collaborate** and deliver **unique** and **competitive design solutions**. Are you looking for someone who can bring your creative ideas to life in **stunning visual forms**? I am ready to be your partner in realizing your vision through **captivating design**.
+
+Thank you for taking the time to get to know me better. I look forward to collaborating with you on future projects!
 
 - [💼 Experience](#experience)
-- [🧑🏻‍💻 Side Project](#side-project)
+- [🧑🏻‍💻 Freelance Projects](#side-project)
 - [🎓 Education](#education)
-- [🤹🏼‍♂️ Skills](#skills)
-- [🏐 Interests](#interests)
+- [🤹🏻‍♀️ Skills](#skills)
+- [😍 Interests](#interests)
 
 ## Experience
 
-### Marketing Project Manager @**[Octopia](https://octopia.com)**
+### Staff Intern HR Compensation and Benefits @**[HR Telkom University](https://hr.telkomuniversity.ac.id/)**
 
-`Oct 2021 - Today`
+`01 February 2023 - 07 June 2023`
 
-Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
+Jobdesk: Analyzing and designing compensation programs, managing salary and benefits structures, and providing administrative support for employee benefits.
 
-### Marketing Project Manager @[Microsoft](https://microsoft.net)
+Achievements: Improving employee satisfaction, reducing turnover, enhancing administrative efficiency, and ensuring legal compliance.
 
-`Sept 2019 - Sept 2020`
+Tools/Software: Microsoft Office. These are used for data storage, payroll management, compensation design, and compliance assurance.
 
-Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
+### Social Media Officer Intern @[Suara.com](https://www.suara.com/)
 
-### Digital Project Manager @[Havana Club International](https://havana-club.com)
+`October 2022 - December 2022`
 
-`Jan 2019 - Jul 2019`
+An Intern Social Media Officer at Suara.com is responsible for social media content strategy, user engagement, performance analysis, and creating compelling campaigns. Achievements include increased user interactions, growth in follower base, and heightened brand awareness on social media platforms.
 
-As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
+### Staff Creative and Content Departement @[Communicare.co](https://www.instagram.com/communicare.co/)
 
-### Digital Project Manager @[Pernod Ricard France](https://www.pernod-ricard.com/fr/nos-marches/france)
+`02 October 2021 - 25 June 2022`
 
-`Jul 2018 - Jan 2019`
+As a Staff Creative and Content Department at @[communicare.co](https://www.instagram.com/communicare.co/), my responsibilities include developing creative content, content marketing strategies, and collaborating with the design team. My achievements include producing high-quality content, increasing audience engagement, and enhancing brand awareness through innovative and captivating campaigns. Additionally, I successfully built a Podcast project from scratch to fruition on the Spotify platform, named @[PODCARE](https://open.spotify.com/show/70YkG0cF5e7Hc5hzVA97JA?si=TP-PcgqSR5il5wQpKJdpug&utm_medium=share&utm_source=linktree&nd=1&dlsi=0190add2bcb74bb9), which continues to be actively utilized to this day.
 
-Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
+### Staff Public Information and Communication Management @[DISKOMINFO Kab. Bandung](https://diskominfo.bandungkab.go.id/)
+
+`01 May 2020 - 01 August 2020`
+
+As a Staff in Public Information and Communication Management, my responsibilities encompass crafting public messages, media management, and coordinating communication events. My achievements include effectively disseminating information to the public, enhancing the company's image through appropriate communication strategies, and successfully executing various communication events and campaigns. Additionally, I have successfully established a YouTube channel for the local government named @[Bandung 1000 Kampung](https://www.youtube.com/@bandungpemkab2197). The channel aims to provide information to the wider community about the hidden gems and abundant natural resources in the Bandung regency, shedding light on lesser-known aspects of the area.
 
 ## Side Project
 
-### Cofounder & Project Manager @[Fabrilab](https://fabrilab.net)
+### UI/UX Design Freelance Projects
 
-`Sept 2017 - Today`
+`January 2023 - Today`
 
 Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
 
-- Main clients : TotalEnergies, Solis International, SCEBOG (1st agricultural cooperative of Guyana)...
+- Main clients : @[Cekhas.com](https://cekhas.com/), @[House of Tjihapit](https://houseoftjihapit.framer.ai/) Landing Page, BlossomBiz (ERP App), Supernova Palapa Nusantara.LTD (Inventory App).
 
 ## Education
 
-### Master in Management @[Excelia BS](https://www.excelia-group.com)
+### Bachelor of Communication Science @[Telkom University](https://telkomuniversity.ac.id/)
 
-`Sept 2016 - Sept 2020`
+`August 2018 - August 2022`
 
-Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
+Graduate of Bachelor's Degree in Communication Science from Telkom University, Bandung, Faculty of Communication and Business, with a concentration/specialization in Broadcasting. @[my jounal](https://iocscience.org/ejournal/index.php/mantik/article/view/2718)
 
 ## Skills
 
 ### Hard Skills:
 
-- 🇬🇧 English
-- 🇪🇸 Spanish
-- 🤹🏼‍♂️ Project Management
-- 🌐 WordPress
-- 💻 Digital Marketing
+- 📱 Social Media Management/Specialist
+- 🤹🏼‍♂️ UI/UX Design
+- 🖌️ Design Graphic
 - 🎨 Adobe CC
-- 🔍 SEO
+- 🎞️ Video Editing
+- 🎞️ Video Production
+- 🌐 WordPress
+- 🌐 Shopify
 - 📊 Microsoft 365
-- 📨 E-CRM Management
-- 📱 Social Media Management
+- 💻 Digital Marketing
+- 🔍 SEO
 
 ### Soft Skills:
 
-- 🎨 Creative
+- 🧑‍🎨 Creative
 - 📚 Curious
 - 🤝🏼 Team Spirit
 
 ## Interests
 
-### Sports:
+### Programming:
 
-- 🏄🏽‍♂️ Bodyboarding & Surfing
-- 🏊🏼‍♂️ Swimming
-
-|                                                       |                                         |
-| ----------------------------------------------------- | --------------------------------------- |
-| ![Bodyboarding](/static/images/bodyboarding-raph.jpg) | ![Wave](/static/images/wave-france.jpg) |
+- 🖥️ Front End Web Development:
+  HTML, CSS, JavaScript, ReactJS, NextJS, TailwindCSS, Bootstrap, MaterialUI, etc.
 
 ### Others:
 
 - 🗺️ Discovery and Traveling
 - 📷 Photography
-- 🎶 Music
-- ♟️ Chess ➡️ [Chess.com](https://www.chess.com/member/raphythe)
+- 🎶 Music -> my Single Band @[Bumpercar-Secondtime](https://www.youtube.com/watch?v=gJ8LKZws_F4)
 
-### Humanitarian:
+### The Certificate of Skill:
 
-- 🤝🏼 Volunteer teacher in Cambodia in 2017 for 3 months in a children’s centre **"Les Enfants de Klang Leu".** As a teacher, I taught French, English and IT. Practice hygiene rules and help with the daily life of the center.
-
-### Other Experiences:
-
-- **2021:** TikTok Business for Enterprise training
-- **2020:** Facebook Spark AR Tutorials
-- **2018:** Bike courier for Deliveroo and Uber Eats
-- **2018:** Ambassador [ASUS](https://www.asus.com/fr/) Vivobook S and ASUS ZenFone 5
-- **2017-2018:** Digital Project Manager of the Student Office of Excela Business School
-- **2017:** Hotel receptionist in Australia at the [Nomads Noosa Hotel](https://nomadsworld.com/australia/nomads-noosa/)
-- **2016-2017:** Bank teller at [La Poste Group](https://www.lapostegroupe.com/fr) (replacement during the holidays)
-- **2015:** Online advisor at [CIC](https://www.cic.fr/fr/index.html) (6-month fixed-term contract)
+- **UI/UX Design**: @[E-Certificate](https://drive.google.com/drive/folders/1q74B-2GIZOrt4a3ca2X9mhZVcxYAafEw?usp=sharing)
+- **HR Developement**: @[E-Certificate](https://drive.google.com/drive/folders/1S3WTNbwgpq3am5CpsJtLvKEPiBciE3mp?usp=sharing)
+- **Microsoft Excel**: @[E-Certificate](https://drive.google.com/drive/folders/1UwffkhXumPeuG4eeJvfksFXVUbo0fGl1?usp=sharing)
+- **Digital Marketing**: @[E-Certificate](https://drive.google.com/drive/folders/19dd3Q5R7JzhDH_vWCBY6MwuMtNt7Q2oT?usp=sharing)
+- **SEO**: @[E-Certificate](https://drive.google.com/drive/folders/1uP8obd56p0-UrJOL5yOMGsy_y1s5-Gd7?usp=sharing)
+- **Ads**: @[E-Certificate](https://drive.google.com/drive/folders/148xrdXIfOQFHWitzKO_bVIQ9RruaFH8L?usp=sharing)
