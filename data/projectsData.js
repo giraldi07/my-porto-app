@@ -3,26 +3,26 @@ const projectsData = [
     title: 'Cekhas.com',
     description: `Creating an Online Store: A Comprehensive Guide to Building a Successful E-commerce Website.`,
     imgSrc: '/static/images/projects/cover-cekhas.png',
-    href: '/blog/projects/fabrilab-web-agency',
+    href: '/blog/projects/cekhas',
   },
   {
     title: 'Muntory App',
     description: `Creation an UI/UX Design Inventory mobile app.`,
     imgSrc: '/static/images/projects/cover-muntory.png',
-    href: '/blog/projects/toy-surfboards',
+    href: '/blog/projects/munca-inventory',
   },
   {
-    title: 'Artwork for Clothings',
-    description: `Creation of Clothing Artwork RaldArt.`,
-    imgSrc: '/static/images/projects/TE-Project-2022.png',
-    href: '/blog/projects/total-energies',
+    title: 'Landing Page',
+    description: `Create Basic Landing Page for Coffee Shop.`,
+    imgSrc: '/static/images/projects/cover-hot.png',
+    href: '/blog/projects/house-of-tjihapit',
   },
 
   {
     title: 'Re-Design UI',
     description: `Re-design UI Mobile App Primajasa.`,
-    imgSrc: '/static/images/projects/havanaclub-vald.jpg',
-    href: '/blog/projects/havana-club-x-vald',
+    imgSrc: '/static/images/projects/cover-primjas.png',
+    href: '/blog/projects/primajasa',
   },
 ];
 

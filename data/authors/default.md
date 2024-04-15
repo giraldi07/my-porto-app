@@ -64,7 +64,7 @@ As a Staff in Public Information and Communication Management, my responsibiliti
 
 Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
 
-- Main clients : @[Cekhas.com](https://cekhas.com/), @[House of Tjihapit](https://houseoftjihapit.framer.ai/) Landing Page, BlossomBiz (ERP App), Supernova Palapa Nusantara.LTD (Inventory App).
+- Main clients : @[Cekhas.com](https://cekhas.com/), @[House of Tjihapit](https://houseoftjihapit.framer.ai/) Landing Page, Supernova Palapa Nusantara.LTD (Inventory App).
 
 ## Education
 

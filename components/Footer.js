@@ -24,18 +24,14 @@ export default function Footer() {
           >
             home
           </Link>
-          <Link
-            className="hover:text-primary-600 hover:underline dark:hover:text-primary-600"
-            href="/blog"
-          >
-            notes
-          </Link>
+
           <Link
             className="hover:text-primary-600 hover:underline dark:hover:text-primary-600"
             href="/projects"
           >
             projects
           </Link>
+
           <Link
             className="hover:text-primary-600 hover:underline dark:hover:text-primary-600"
             href="/about"
